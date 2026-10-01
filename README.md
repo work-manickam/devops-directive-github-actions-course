@@ -13,7 +13,7 @@ This course is made possible thanks to [namespace.so](https://namespace.so/?utm_
 
 - **Faster GitHub Actions:** Hosted GHA runners for faster runs at a fraction of the cost!
 - **Faster Docker Builds:** Remote Docker builders for massive container build speedups!
-- **Continuous Integration Visibility:** Clear metrics and analytics to enable further CI optimization!
+- **Continuous Integration Visibility:** Clear metrics and analytics to enable further CI optimization!!
 
 ## 📚 Course Outline
 - **History & Motivation:** why pipeline automation matters and the deployment metrics it influences.
